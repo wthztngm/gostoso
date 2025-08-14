@@ -1,0 +1,6 @@
+.perfil img {
+    width: 150px; /* Largura da imagem */
+    height: 150px; /* Altura da imagem */
+    border-radius: 50%; /* Para tornar a imagem redonda */
+    border: 2px solid #333; /* Borda ao redor da imagem */
+}
